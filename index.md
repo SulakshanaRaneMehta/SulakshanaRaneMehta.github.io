@@ -1,18 +1,89 @@
 # Sulakshana Rane Mehta – Computer Science ePortfolio
 
-Welcome to my Computer Science ePortfolio. My name is Sulakshana Rane Mehta, and I am completing my Bachelor of Science in Computer Science at Southern New Hampshire University.
+---
 
-This portfolio highlights my growth as a software developer through the enhancement of my CS 465 Travlr Full-Stack Application. The Travlr project demonstrates my skills in software engineering and design, algorithms and data structures, databases, and secure full-stack development.
+- [Welcome](#welcome)
+- [Code Review Video](#code-review-video)
+- [Original Artifact](#original-artifact)
+- [Enhanced Artifact](#enhanced-artifact)
+- [Software Engineering Narrative](#software-engineering-narrative)
+- [Algorithms and Data Structures Narrative](#algorithms-and-data-structures-narrative)
+- [Databases Narrative](#databases-narrative)
+- [Professional Self-Assessment](#professional-self-assessment)
+- [GitHub Profile](#github-profile)
+  
+---
 
-Throughout CS 499, I will enhance this artifact by improving its architecture, usability, search and filtering logic, database design, and security.
 
-## Portfolio Links
 
-- Code Review Video
-- Original Artifact: CS 465 Travlr Full-Stack Application
-- Enhanced Artifact
-- Software Engineering and Design Narrative
-- Algorithms and Data Structures Narrative
-- Databases Narrative
-- Professional Self-Assessment
-- GitHub Profile / Contact Information
+## Welcome
+
+Welcome to my Computer Science ePortfolio.
+
+My name is **Sulakshana Rane Mehta**, and I am completing my Bachelor of Science in Computer Science at Southern New Hampshire University.
+
+This portfolio demonstrates my growth as a software developer through the enhancement of my **CS-465 Travlr Full-Stack Application** during **CS-499 Computer Science Capstone**.
+
+---
+
+
+
+## Code Review Video
+
+*(Video link will be added here.)*
+
+---
+
+
+
+## Original Artifact
+
+*(GitHub repository link will be added here.)*
+
+---
+
+
+
+## Enhanced Artifact
+
+*(Enhanced application link will be added here.)*
+
+---
+
+
+
+## Software Engineering Narrative
+
+*(Will be added during the course.)*
+
+---
+
+
+
+## Algorithms and Data Structures Narrative
+
+*(Will be added during the course.)*
+
+---
+
+
+
+## Databases Narrative
+
+*(Will be added during the course.)*
+
+---
+
+
+
+## Professional Self-Assessment
+
+*(Will be added during the course.)*
+
+---
+
+
+
+## GitHub Profile
+
+GitHub: **https://github.com/SulakshanaRaneMehta**
