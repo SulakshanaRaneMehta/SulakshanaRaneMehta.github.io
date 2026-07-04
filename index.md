@@ -38,7 +38,7 @@ This portfolio demonstrates my growth as a software developer through the enhanc
 
 ## Original Artifact
 
-*(GitHub repository link will be added here.)*
+[CS-465 Travlr Full-Stack Application](https://github.com/SulakshanaRaneMehta/CS-465)
 
 ---
 
