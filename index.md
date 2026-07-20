@@ -46,7 +46,7 @@ This portfolio demonstrates my growth as a software developer through the enhanc
 
 ## Enhanced Artifact
 
-*(Enhanced application link will be added here.)*
+[CS499 Enhanced Travlr Full-Stack Application](https://github.com/SulakshanaRaneMehta/CS499-Travlr-Enhancement)
 
 ---
 
