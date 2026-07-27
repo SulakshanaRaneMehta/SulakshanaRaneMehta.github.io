@@ -30,7 +30,7 @@ This portfolio demonstrates my growth as a software developer through the enhanc
 
 ## Code Review Video
 
-*(Video link will be added here.)*
+[▶ Watch My CS 499 Code Review Video](https://youtu.be/9ZKO4aC7Hvc)
 
 ---
 
