@@ -54,7 +54,7 @@ This portfolio demonstrates my growth as a software developer through the enhanc
 
 ## Software Engineering Narrative
 
-https://github.com/SulakshanaRaneMehta/CS499-Travlr-Enhancement/blob/main/CS499_Milestone_Two.docx
+[View Software Engineering Narrative](https://github.com/SulakshanaRaneMehta/CS499-Travlr-Enhancement/blob/main/CS499_Milestone_Two.docx)
 
 ---
 
@@ -62,7 +62,7 @@ https://github.com/SulakshanaRaneMehta/CS499-Travlr-Enhancement/blob/main/CS499_
 
 ## Algorithms and Data Structures Narrative
 
-https://github.com/SulakshanaRaneMehta/CS499-Travlr-Enhancement/blob/main/CS499_Milestone_Three.docx
+[View Algorithms and Data Structures Narrative](https://github.com/SulakshanaRaneMehta/CS499-Travlr-Enhancement/blob/main/CS499_Milestone_Three.docx)
 
 ---
 
