@@ -62,7 +62,7 @@ This portfolio demonstrates my growth as a software developer through the enhanc
 
 ## Algorithms and Data Structures Narrative
 
-*(Will be added during the course.)*
+https://github.com/SulakshanaRaneMehta/CS499-Travlr-Enhancement/blob/main/CS499_Milestone_Three.docx
 
 ---
 
