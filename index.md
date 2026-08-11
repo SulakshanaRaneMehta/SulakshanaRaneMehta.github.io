@@ -70,7 +70,7 @@ This portfolio demonstrates my growth as a software developer through the enhanc
 
 ## Databases Narrative
 
-*(Will be added during the course.)*
+[View Databases Narrative](https://github.com/SulakshanaRaneMehta/SulakshanaRaneMehta.github.io/blob/main/CS499_Milestone_Four_Databases.docx)
 
 ---
 
