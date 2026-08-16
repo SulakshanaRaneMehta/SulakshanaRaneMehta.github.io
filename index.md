@@ -46,7 +46,10 @@ This portfolio demonstrates my growth as a software developer through the enhanc
 
 ## Enhanced Artifact
 
+
 [CS499 Enhanced Travlr Full-Stack Application](https://github.com/SulakshanaRaneMehta/CS499-Travlr-Enhancement)
+
+
 [Download Final Technical Artifact (ZIP)](assets/downloads/CS499_Travlr_Final_Technical_Artifact.zip)
 
 ---
@@ -55,6 +58,7 @@ This portfolio demonstrates my growth as a software developer through the enhanc
 
 ## Software Engineering Narrative
 
+
 [View Software Engineering Narrative](assets/downloads/CS499_Narrative_Enhancement_One_Software_Design_and_Engineering.docx)
 
 ---
@@ -62,12 +66,16 @@ This portfolio demonstrates my growth as a software developer through the enhanc
 
 
 ## Algorithms and Data Structures Narrative
+
+
 [View Algorithms and Data Structures Narrative](assets/downloads/CS499_Narrative_Enhancement_Two_Algorithms_and_Data_Structures.docx)
+
 ---
 
 
 
 ## Databases Narrative
+
 
 [View Databases Narrative](assets/downloads/CS499_Narrative_Enhancement_Three_Databases.docx)
 
@@ -77,6 +85,7 @@ This portfolio demonstrates my growth as a software developer through the enhanc
 
 ## Professional Self-Assessment
 
+
 [View Professional Self-Assessment](assets/downloads/CS499_Professional_Self_Assessment.docx)
 
 ---
@@ -84,5 +93,6 @@ This portfolio demonstrates my growth as a software developer through the enhanc
 
 
 ## GitHub Profile
+
 
 GitHub: **https://github.com/SulakshanaRaneMehta**
