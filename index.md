@@ -3,13 +3,13 @@
 ---
 
 - [Welcome](#welcome)
+- [Professional Self-Assessment](#professional-self-assessment)
 - [Code Review Video](#code-review-video)
 - [Original Artifact](#original-artifact)
 - [Enhanced Artifact](#enhanced-artifact)
 - [Software Engineering Narrative](#software-engineering-narrative)
 - [Algorithms and Data Structures Narrative](#algorithms-and-data-structures-narrative)
 - [Databases Narrative](#databases-narrative)
-- [Professional Self-Assessment](#professional-self-assessment)
 - [GitHub Profile](#github-profile)
   
 ---
@@ -24,7 +24,15 @@ I am Sulakshana Rane Mehta, completing my Bachelor of Science in Computer Scienc
 
 ---
 
+## Professional Self-Assessment
 
+My professional self-assessment reflects on my growth throughout the Computer Science program, including the technical, collaborative, problem-solving, and security-focused skills I developed through my coursework and CS-499 Capstone. It also explains how the artifacts in this ePortfolio demonstrate my preparation for a career in software development.
+
+[Read Full Professional Self-Assessment](self-assessment.md)
+
+[Download Professional Self-Assessment (.docx)](assets/downloads/CS499_Professional_Self_Assessment.docx)
+
+---
 
 ## Code Review Video
 
@@ -76,18 +84,6 @@ I am Sulakshana Rane Mehta, completing my Bachelor of Science in Computer Scienc
 
 
 [View Databases Narrative](assets/downloads/CS499_Narrative_Enhancement_Three_Databases.docx)
-
----
-
-
-
-## Professional Self-Assessment
-
-My professional self-assessment reflects on my growth throughout the Computer Science program, including the technical, collaborative, problem-solving, and security-focused skills I developed through my coursework and CS-499 Capstone. It also explains how the artifacts in this ePortfolio demonstrate my preparation for a career in software development.
-
-[Read Full Professional Self-Assessment](self-assessment.md)
-
-[Download Professional Self-Assessment (.docx)](assets/downloads/CS499_Professional_Self_Assessment.docx)
 
 ---
 
