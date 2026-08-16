@@ -78,7 +78,7 @@ This portfolio demonstrates my growth as a software developer through the enhanc
 
 ## Professional Self-Assessment
 
-*(Will be added during the course.)*
+[View Professional Self-Assessment](CS499_Professional_Self_Assessment.docx)
 
 ---
 
