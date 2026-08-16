@@ -95,4 +95,5 @@ This portfolio demonstrates my growth as a software developer through the enhanc
 ## GitHub Profile
 
 
-GitHub: **https://github.com/SulakshanaRaneMehta**
+GitHub: [SulakshanaRaneMehta](https://github.com/SulakshanaRaneMehta)
+
