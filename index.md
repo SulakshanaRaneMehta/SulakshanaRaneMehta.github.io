@@ -2,8 +2,8 @@
 
 ---
 
-- [Welcome](#welcome)
 - [Professional Self-Assessment](#professional-self-assessment)
+- [Welcome](#welcome)
 - [Code Review Video](#code-review-video)
 - [Original Artifact](#original-artifact)
 - [Enhanced Artifact](#enhanced-artifact)
@@ -15,15 +15,6 @@
 ---
 
 
-
-## Welcome
-
-Welcome to my Computer Science ePortfolio.
-
-I am Sulakshana Rane Mehta, completing my Bachelor of Science in Computer Science at Southern New Hampshire University. This portfolio highlights my growth as a software developer through the enhancement of my CS-465 Travlr Full-Stack Application during the CS-499 Computer Science Capstone. It demonstrates my work in software design and engineering, algorithms and data structures, databases, security, and full-stack development.
-
----
-
 ## Professional Self-Assessment
 
 My professional self-assessment reflects on my growth throughout the Computer Science program, including the technical, collaborative, problem-solving, and security-focused skills I developed through my coursework and CS-499 Capstone. It also explains how the artifacts in this ePortfolio demonstrate my preparation for a career in software development.
@@ -31,6 +22,13 @@ My professional self-assessment reflects on my growth throughout the Computer Sc
 [Read Full Professional Self-Assessment](self-assessment.md)
 
 [Download Professional Self-Assessment (.docx)](assets/downloads/CS499_Professional_Self_Assessment.docx)
+
+---
+## Welcome
+
+Welcome to my Computer Science ePortfolio.
+
+I am Sulakshana Rane Mehta, completing my Bachelor of Science in Computer Science at Southern New Hampshire University. This portfolio highlights my growth as a software developer through the enhancement of my CS-465 Travlr Full-Stack Application during the CS-499 Computer Science Capstone. It demonstrates my work in software design and engineering, algorithms and data structures, databases, security, and full-stack development.
 
 ---
 
