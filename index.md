@@ -85,8 +85,11 @@ This portfolio demonstrates my growth as a software developer through the enhanc
 
 ## Professional Self-Assessment
 
+My professional self-assessment reflects on my growth throughout the Computer Science program, including the technical, collaborative, problem-solving, and security-focused skills I developed through my coursework and CS-499 Capstone. It also explains how the artifacts in this ePortfolio demonstrate my preparation for a career in software development.
 
-[View Professional Self-Assessment](assets/downloads/CS499_Professional_Self_Assessment.docx)
+[Read Full Professional Self-Assessment](self-assessment.md)
+
+[Download Professional Self-Assessment (.docx)](assets/downloads/CS499_Professional_Self_Assessment.docx)
 
 ---
 
