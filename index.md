@@ -20,9 +20,7 @@
 
 Welcome to my Computer Science ePortfolio.
 
-My name is **Sulakshana Rane Mehta**, and I am completing my Bachelor of Science in Computer Science at Southern New Hampshire University.
-
-This portfolio demonstrates my growth as a software developer through the enhancement of my **CS-465 Travlr Full-Stack Application** during **CS-499 Computer Science Capstone**.
+I am Sulakshana Rane Mehta, completing my Bachelor of Science in Computer Science at Southern New Hampshire University. This portfolio highlights my growth as a software developer through the enhancement of my CS-465 Travlr Full-Stack Application during the CS-499 Computer Science Capstone. It demonstrates my work in software design and engineering, algorithms and data structures, databases, security, and full-stack development.
 
 ---
 
